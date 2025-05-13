@@ -65,9 +65,7 @@ def get_event_messages(url, events):
         event_element = soup.select(
             f"#{event['type']}-{event['message_id']} .correspondence_text"
         )
-        event["content"] = [
-            element.get_text(separator="\n", strip=True) for element in event_element
-        ]
+        event["content"] = "\n".join(element.get_text(separator="\n", strip=True) for element in event_element)
 
 
 def save_foi_request(url):
