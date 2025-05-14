@@ -6,5 +6,5 @@ title: About This Project
 # About This Project
 
 - Purpose: Make FOI data more accessible.
-- Team: Your team details here.
+- Team: FOI AI Team.
 - Alignment with [Sheffield City Goals](https://sheffieldcitygoals.uk/).
