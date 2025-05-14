@@ -1,0 +1,26 @@
+{
+    "id": 1105294,
+    "title": "Speed camera on Shepcote Lane",
+    "display_status": "Information not held",
+    "law_used": "foi",
+    "url_title": "speed_camera_on_shepcote_lane",
+    "created_at": "2024-03-19T18:14:09.947+00:00",
+    "events": [
+        {
+            "created_at": "2024-03-19T18:14:10.279+00:00",
+            "message_id": 1626188,
+            "type": "outgoing",
+            "content": [
+                "Dear Sheffield City Council,\nPlease could you provide more information on the newly installed speed camera on Shepcote Lane near the railway bridge. Specifically, whether the camera measures speed in both directions or just northbound towards Meadowhall. If you're also able to confirm whether this monitors mobile phone usage and/or seatbelts that would also be appreciated.\nYours faithfully,\nRichard Hoyland"
+            ]
+        },
+        {
+            "created_at": "2024-03-22T15:48:38.202+00:00",
+            "message_id": 2599254,
+            "type": "incoming",
+            "content": [
+                "Hi Richard Hoyland\nThanks for your enquiry on 21 March 2024 about the Shepcote Lane speed\ncamera. We\u2019re not formally answering under FOI because this is not us: we\ndon\u2019t hold information.\nCameras are operated by South Yorkshire Safety Camera Partnership.\nThey can be contacted by post at: South Yorkshire Safety Cameras, PO Box\n767, Maltby, Rotherham, S66 6BD. The South Yorkshire Safety Camera\npartnership is contactable by telephone on (01709) 832 456 from Monday -\nFriday between the hours of 10am and 12pm. The Partnership can be\ncontacted by email at [1][\nemail address\n] . They also have a website\nwith information on at [2]www.safetycamera.org.\nThe public authority for Freedom of Information requests is South\nYorkshire Police: [3]Accessing information | South Yorkshire Police\nKind regards\nSheffield City Council\nPO Box 1283\nSheffield, S1 1UJ\nEmail: [4][Sheffield City Council request email]\nThis Email, and any attachments, may contain non-public information and is\nintended solely for the individual(s) to whom it is addressed. It may\ncontain sensitive or protectively marked material and should be handled\naccordingly. If this Email has been misdirected, please notify the author\nimmediately. If you are not the intended recipient you must not disclose,\ndistribute, copy, print or rely on any of the information contained in it\nor attached, and all copies must be deleted immediately. Whilst we take\nreasonable steps to try to identify any software viruses, any attachments\nto this Email may nevertheless contain viruses which our anti-virus\nsoftware has failed to identify. You should therefore carry out your own\nanti-virus checks before opening any documents. Sheffield City Council\nwill not accept any liability for damage caused by computer viruses\nemanating from any attachment or other document supplied with this e-mail\nReferences\nVisible links\n1. mailto:[\nemail address\n]\n2.\nhttp://www.safetycamera.org/\n3.\nhttps://www.southyorkshire.police.uk/foi...\n4. mailto:[Sheffield City Council request email]"
+            ]
+        }
+    ]
+}

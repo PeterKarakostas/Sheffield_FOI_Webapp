@@ -1,0 +1,26 @@
+{
+    "id": 1189671,
+    "title": "Night time noise team attendance",
+    "display_status": "Awaiting internal review",
+    "law_used": "foi",
+    "url_title": "night_time_noise_team_attendance",
+    "created_at": "2024-10-22T09:01:29.476+01:00",
+    "events": [
+        {
+            "created_at": "2024-10-22T09:01:29.703+01:00",
+            "message_id": 1744442,
+            "type": "outgoing",
+            "content": [
+                "Dear Sheffield City Council,\nHow many times have the night-time noise and enforcement team been sent to student HMOs or properties in the past 5 years in the city of Sheffield.\nBroken down by year (Jan-Dec)\nYours faithfully,\nJames Little"
+            ]
+        },
+        {
+            "created_at": "2024-12-19T20:31:19.632+00:00",
+            "message_id": 1780159,
+            "type": "outgoing",
+            "content": [
+                "Dear Sheffield City Council,\nPlease pass this on to the person who conducts Freedom of Information reviews.\nI am writing to request an internal review of Sheffield City Council's handling of my FOI request 'Night time noise team attendance'.\nThere has been no response to this FOI.\nA full history of my FOI request and all correspondence is available on the Internet at this address:\nhttps://www.whatdotheyknow.com/request/n...\nYours faithfully,\nJames Little"
+            ]
+        }
+    ]
+}

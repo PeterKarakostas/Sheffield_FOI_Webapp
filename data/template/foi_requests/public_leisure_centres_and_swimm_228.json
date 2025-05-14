@@ -1,0 +1,34 @@
+{
+    "id": 1109376,
+    "title": "Public leisure centres and swimming pools",
+    "display_status": "Awaiting classification",
+    "law_used": "foi",
+    "url_title": "public_leisure_centres_and_swimm_228",
+    "created_at": "2024-03-30T05:25:18.779+00:00",
+    "events": [
+        {
+            "created_at": "2024-03-30T05:25:19.387+00:00",
+            "message_id": 1632619,
+            "type": "outgoing",
+            "content": [
+                "Hello,\nMy name is Immanuel Feld and I am a researcher at the University of Warwick. My research focusses on local governments and the provision of public goods. I am thus interested in collecting information on public leisure centres and swimming pools run by local councils.\nSpecifically, under the FOI legislation, I request a list of all public swimming pools and leisure centres run by your council between 2005 and 2022. Additionally, could you please provide information on dates of opening and closure (with at least year-month precision) if they started or ceased operation over that period. Lastly, could you please provide information on opening and closing hours of the leisure centre/swimming pool in that given year?\nThat means the final dataset would have the following columns:\nName of the swimming pool or leisure centre, type (i.e. leisure centre or swimming pool or both), address, date of opening, date of closing, opening hours in year 2005, opening hours in year 2006, \u2026 , opening hours in year 2022.\nIf collecting weekly opening hours is not possible, annual opening hours are sufficient, too.\nI am happy with whatever format of the data is the most suitable to you and I don\u2019t have any issue in combining multiple files.\nKind regards,\nImmanuel Feld"
+            ]
+        },
+        {
+            "created_at": "2024-04-03T10:29:16.381+01:00",
+            "message_id": 2608542,
+            "type": "incoming",
+            "content": [
+                "Dear Immanuel Feld,\nThank you for your request for information relating to public leisure\ncentres and swimming pools which we received on 30/03/2024.\nThis has been logged as a Freedom of Information Request and will be dealt\nwith under the Freedom of Information Act 2000. The reference number for\nyour request can be found above.\nThe Freedom of Information Act 2000 states that we must respond to you\nwithin 20 working days, by 30/04/2024. Please do not hesitate to contact\nus at the email address below if you have any queries.\nYours sincerely,\nSheffield City Council\nPO Box 1283\nSheffield, S1 1UJ\nEmail: [1][Sheffield City Council request email]\nThis Email, and any attachments, may contain non-public information and is\nintended solely for the individual(s) to whom it is addressed. It may\ncontain sensitive or protectively marked material and should be handled\naccordingly. If this Email has been misdirected, please notify the author\nimmediately. If you are not the intended recipient you must not disclose,\ndistribute, copy, print or rely on any of the information contained in it\nor attached, and all copies must be deleted immediately. Whilst we take\nreasonable steps to try to identify any software viruses, any attachments\nto this Email may nevertheless contain viruses which our anti-virus\nsoftware has failed to identify. You should therefore carry out your own\nanti-virus checks before opening any documents. Sheffield City Council\nwill not accept any liability for damage caused by computer viruses\nemanating from any attachment or other document supplied with this e-mail\nReferences\nVisible links\n1. mailto:[Sheffield City Council request email]"
+            ]
+        },
+        {
+            "created_at": "2024-04-16T09:33:48.815+01:00",
+            "message_id": 2623204,
+            "type": "incoming",
+            "content": [
+                "1 Attachment\nFOI Template 1.xlsx\n11K\nDownload\nView as HTML\nDear Immanuel Feld,\nThank you for your request for information relating to public leisure\ncentres and swimming pools which we received on 30/03/2024.\nPlease find Sheffield City Council\u2019s response to your request attached.\nIf you have any queries about this response, please do not hesitate to\ncontact us.\nThe information provided in this response is available for re-use under\nthe terms of the Open Government Licence v3.0. The terms of the OGL can be\nfound [1]here. When re-using the information, Sheffield City Council\nrequires you to include the following attribution statement: \u201cContains\npublic sector information obtained from Sheffield City Council and\nlicensed under the Open Government Licence v3.0.\u201d\nIf you are unhappy with the response you have received in relation to your\nrequest, you are entitled to have this reviewed. You can ask for an\ninternal review by replying to this email. Internal review requests should\nbe submitted within 40 working days from the date of this response.\nIf you remain dissatisfied with the outcome of your internal review, you\ncan contact the Information Commissioner\u2019s Office. Please see\n[2]\nhttps://ico.org.uk/make-a-complaint/offi...\nfor further details.\nKind Regards,\nSheffield City Council\nPO Box 1283\nSheffield, S1 1UJ\nEmail: [3][Sheffield City Council request email]\nThis Email, and any attachments, may contain non-public information and is\nintended solely for the individual(s) to whom it is addressed. It may\ncontain sensitive or protectively marked material and should be handled\naccordingly. If this Email has been misdirected, please notify the author\nimmediately. If you are not the intended recipient you must not disclose,\ndistribute, copy, print or rely on any of the information contained in it\nor attached, and all copies must be deleted immediately. Whilst we take\nreasonable steps to try to identify any software viruses, any attachments\nto this Email may nevertheless contain viruses which our anti-virus\nsoftware has failed to identify. You should therefore carry out your own\nanti-virus checks before opening any documents. Sheffield City Council\nwill not accept any liability for damage caused by computer viruses\nemanating from any attachment or other document supplied with this e-mail\nReferences\nVisible links\n1.\nhttp://www.nationalarchives.gov.uk/doc/o...\n2.\nhttps://ico.org.uk/make-a-complaint/offi...\n3. mailto:[sheffield%20city%20council%20request%20email]"
+            ]
+        }
+    ]
+}
