@@ -2,10 +2,19 @@
 layout: default
 title: Sheffield FOI Insights Explorer
 ---
+---
 
+## 📄 Sections
+
+[Home](/)  
+[Insights](/insights.md)  
+[Project Documentation](/project.md)  
+[About](/about.md)
+
+---
 # Welcome to Sheffield FOI Insights Explorer
 
-Welcome to the **Sheffield FOI Insights Explorer**, a dynamic platform designed to explore and search through **Freedom of Information (FOI)** requests submitted to **Sheffield City Council**. This is a **proof-of-concept tool** that provides insights and data visualization based on FOI requests.
+Welcome to the Sheffield FOI Insights Explorer, a dynamic platform designed to explore and search through Freedom of Information (FOI) requests submitted to Sheffield City Council. This is a proof-of-concept tool that provides insights and data visualization based on FOI requests.
 
 
 ## 🚧 In Development
@@ -18,22 +27,12 @@ This tool is currently in **active development**. Features are continuously upda
 
 - **Searchable FOI Data**: Find FOI requests by title, theme, or status.
 - **Data Visualisation**: See trends and themes through interactive charts.
-- **AI Insights**: Automatically summarize and categorize requests using **AI-powered NLP**.
+- **AI Insights**: Automatically summarize and categorize requests using AI-powered NLP.
 
----
-
-## 📄 Sections
-
-[Home](/)  
-[Insights](/insights.md)  
-[Project Documentation](/project.md)  
-[About](/about.md)
-
----
 
 ## 📊 Explore Insights
 
-Our platform uses **AI-powered NLP** to extract insights from the FOI data, including:
+Our platform uses AI-powered NLP to extract insights from the FOI data, including:
 
 - **Themes**: Discover the most frequent topics in FOI requests.
 - **Tags**: Visualize tags assigned to requests, highlighting key issues.
