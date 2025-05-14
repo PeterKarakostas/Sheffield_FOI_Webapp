@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-  fetch('insights_data.json')
+  fetch('/Sheffield_FOI_Webapp/insights_data.json')
     .then(response => response.json())
     .then(data => {
       renderChart('themeChart', 'Theme Distribution', data.themes);
