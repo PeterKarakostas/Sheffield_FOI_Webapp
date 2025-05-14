@@ -3,9 +3,22 @@ layout: default
 title: Sheffield FOI Insights Explorer
 ---
 
-<h1>Sheffield FOI Insights Explorer</h1>
+# Sheffield FOI Insights Explorer
 
-<p>Explore, search, and filter Freedom of Information requests submitted to Sheffield City Council.</p>
+Welcome to Sheffield FOI Explorer. Explore, search, and filter Freedom of Information requests submitted to Sheffield City Council.
+
+---
+
+## 📄 Sections
+
+[Home](/)  
+[Insights](/insights.md)  
+[Project Documentation](/project.md)  
+[About](/about.md)
+
+---
+
+## 🔍 Search FOI Requests
 
 <input type="text" id="search" placeholder="Search by Title or Theme...">
 <ul id="results"></ul>
