@@ -28,7 +28,6 @@ Explore the technical and strategic documentation for the Sheffield FOI Insight 
 ### How to Use These Documents
 
 - **Download**: Click any link to download the document.
-- **View Locally**: Open in Word or any compatible viewer.
 
 These documents explain:
 - The NLP Process used by Azure OpenAI.
