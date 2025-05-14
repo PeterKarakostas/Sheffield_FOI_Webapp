@@ -1,0 +1,26 @@
+{
+    "id": 180907,
+    "title": "Litter",
+    "display_status": "Partially successful",
+    "law_used": "foi",
+    "url_title": "litter_13",
+    "created_at": "2013-10-14T14:01:15.926+01:00",
+    "events": [
+        {
+            "created_at": "2013-10-14T14:01:18.214+01:00",
+            "message_id": 305891,
+            "type": "outgoing",
+            "content": [
+                "Dear Sheffield City Council,\nCould you please supply me with the following information for financial years (by year, where possible) from 2008 to present:\n1. The number of litter-related incidents reported or recorded\n2. The number (and total value) of fines issued in respect of litter\n3. The number (and total value) of fines paid in respect of litter\n4. The number of cases taken to court and how many of these were successful\n5. The cost of pursuing litter-related incidents\n6. The current policy on tackling litter (reporting, enforcement, etc)\n7. The number of dog fouling incidents reported or recorded\n8. The number of fines issued in respect of dog fouling\n9. The total value of fines issued in respect of dog fouling\n10. The number of fines paid in respect of dog fouling\n11. The value of fines paid in respect of dog fouling\n12. The current policy on tackling dog fouling (reporting, enforcement, etc)\nYours faithfully,\nMark Smith"
+            ]
+        },
+        {
+            "created_at": "2013-11-13T18:30:12.556+00:00",
+            "message_id": 449715,
+            "type": "incoming",
+            "content": [
+                "2 Attachments\nMark Parry FPN S12.docx\n22K\nDownload\nView as HTML\nConsolidated Enforcement Policy.doc\n46K\nDownload\nView as HTML\nMr Smith,\nPlease find attached a document setting out the information you require to the best of our ability.\nI also attach our consolidated enforcement policy which specifically mentions littering and dog fouling.\nMark Parry\nEnvironmental Enforcement Team Manager\nEnvironmental Protection Service\nBusiness Strategy & Regulation\nSheffield City Council\n2-10 Carbrook Hall Road\nSheffield\nS9 2DB\n+44 (0)114 203 7405\nFax +44 (0) 114 203 7417\nshow quoted sections"
+            ]
+        }
+    ]
+}
