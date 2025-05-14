@@ -1,3 +1,4 @@
+/* Button Styles */
 a.button {
     display: inline-block;
     padding: 10px 20px;
@@ -7,10 +8,18 @@ a.button {
     border-radius: 5px;
     font-size: 16px;
     text-align: center;
-    margin: 5px;
+    margin: 10px;
     transition: background-color 0.3s;
 }
 
 a.button:hover {
     background-color: #0056b3;
+}
+
+/* Ensure buttons are aligned properly */
+.button-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 20px;
 }
