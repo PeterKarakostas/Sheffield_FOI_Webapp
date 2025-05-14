@@ -27,7 +27,13 @@ Every year, Sheffield City Council receives hundreds of FOI requests. While thes
 ## 🗺️ Alignment with Sheffield City Goals
 
 This project supports the **Sheffield City Goals**, particularly:
-- **Inclusive Economy** – by making public data more accessible.
-- **Health and Wellbeing** – by enabling public engagement on council activities.
-- **Climate and Nature** – by exposing environmental FOI trends.
-- **Education and Learning**
+- **Transparency and Accountability** – by making Freedom of Information data more accessible to the public and promoting civic engagement.
+- **Efficient Public Services** – by helping the City Council better handle FOI requests, reducing workloads and improving efficiency.
+- **Inclusive Decision Making** – by ensuring that citizens, journalists, and researchers can easily find relevant information, encouraging informed participation.
+
+Learn more about the [Sheffield City Goals](https://sheffieldcitygoals.uk/).
+
+## 👥 Our Team
+
+This project was developed by the **Sheffield FOI Explorer Team** as part of the [Sheffield AI Hackathon](https://sheffield.ai/hackathon/).
+
