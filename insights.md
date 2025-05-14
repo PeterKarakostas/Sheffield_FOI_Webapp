@@ -10,6 +10,9 @@ Explore trends from the processed FOI data.
 ## Theme Distribution
 <canvas id="themeChart"></canvas>
 
+## Tag Distribution
+<canvas id="tagChart"></canvas>
+
 ## Status Overview
 <canvas id="statusChart"></canvas>
 
