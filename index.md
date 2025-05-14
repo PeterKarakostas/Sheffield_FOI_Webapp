@@ -52,8 +52,6 @@ Learn more about the development, architecture, and future considerations of thi
 - [Sheffield FOI Dynamic Webapp](./2.%20Sheffield%20FOI%20Dynamic%20Webapp.docx)
 - [Sheffield FOI Tool High-Level Architecture](./3.%20Sheffield%20FOI%20Tool%20High-Level%20Architecture.docx)
 
-[Explore the Documentation](./project)  
-<a href="./project" class="button"><i class="fas fa-file-alt"></i> Explore Docs</a>
 
 ---
 
