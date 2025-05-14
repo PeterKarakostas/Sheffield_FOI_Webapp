@@ -22,6 +22,15 @@ This tool is currently in **active development**. Features are continuously upda
 
 ---
 
+## 📄 Sections
+
+[Home](/)  
+[Insights](/insights.md)  
+[Project Documentation](/project.md)  
+[About](/about.md)
+
+---
+
 ## 📊 Explore Insights
 
 Our platform uses **AI-powered NLP** to extract insights from the FOI data, including:
