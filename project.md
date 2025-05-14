@@ -6,7 +6,7 @@ title: Project Documentation
 
 ## 📄 Sections
 
-[Home](/)  
+[Home](/index.md)  
 [Insights](/insights.md)  
 [Project Documentation](/project.md)  
 [About](/about.md)
