@@ -35,5 +35,5 @@ Learn more about the [Sheffield City Goals](https://sheffieldcitygoals.uk/).
 
 ## 👥 Our Team
 
-This project was developed by the **Sheffield FOI Explorer Team** as part of the [Sheffield AI Hackathon](https://sheffield.ai/hackathon/).
+This project was developed by the **FOI AI Team** as part of the [Sheffield AI Hackathon](https://sheffield.ai/hackathon/).
 
