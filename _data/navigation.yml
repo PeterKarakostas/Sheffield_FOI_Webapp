@@ -1,0 +1,9 @@
+primary:
+  - text: Home
+    href: /
+  - text: Insights
+    href: /insights/
+  - text: Project Documentation
+    href: /project/
+  - text: About
+    href: /about/
