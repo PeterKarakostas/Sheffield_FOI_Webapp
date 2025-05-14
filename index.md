@@ -30,7 +30,7 @@ Our platform uses **AI-powered NLP** to extract insights from the FOI data, incl
 - **Status Overview**: Track how requests are being processed by the council (approved, refused, etc.).
 
 [Explore Insights](./insights)  
-<a href="./insights" class="button"><i class="fas fa-search-plus"></i> Explore Insights</a>
+
 
 ---
 
@@ -62,8 +62,7 @@ The **Sheffield FOI Explorer** is designed to make FOI data more discoverable an
 Please note that this project is still a **work in progress**. Features will continue to be developed and improved over time.
 
 [Learn more about the project](./about)  
-<a href="./about" class="button"><i class="fas fa-info-circle"></i> About the Project</a>
+
 
 
 [View on GitHub](https://github.com/peterkarakostas/Sheffield_FOI_Webapp)  
-<a href="https://github.com/peterkarakostas/Sheffield_FOI_Webapp" class="button"><i class="fab fa-github"></i> View on GitHub</a>
