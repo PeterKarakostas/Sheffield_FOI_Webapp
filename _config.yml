@@ -1,5 +1,8 @@
 title: Sheffield FOI Explorer
-description: A platform to explore Freedom of Information requests in Sheffield.
-remote_theme: pages-themes/cayman@v0.2.0
+description: Explore Freedom of Information requests in Sheffield.
+remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-remote-theme
+
+repository: peterkarakostas/Sheffield_FOI_Webapp
+show_downloads: false
