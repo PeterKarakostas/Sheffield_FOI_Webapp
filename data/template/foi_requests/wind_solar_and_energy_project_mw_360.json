@@ -1,0 +1,18 @@
+{
+    "id": 1067502,
+    "title": "Wind, Solar and Energy Project MW/Size",
+    "display_status": "Long overdue",
+    "law_used": "foi",
+    "url_title": "wind_solar_and_energy_project_mw_360",
+    "created_at": "2024-01-08T10:50:52.583+00:00",
+    "events": [
+        {
+            "created_at": "2024-01-08T10:50:53.005+00:00",
+            "message_id": 1577062,
+            "type": "outgoing",
+            "content": [
+                "Dear Sheffield City Council,\nFurther to my existing Freedom of Information Request sent on 3rd January 2024 concerning planning permission for wind, solar and battery projects, I would like to request the following information;\nPlease provide a list of approved and not approved wind, solar and battery projects indicating MW/size for each project.\nYours faithfully,\nLiam Porter"
+            ]
+        }
+    ]
+}
