@@ -7,6 +7,7 @@ title: Sheffield FOI Insights Explorer
 
 Welcome to the **Sheffield FOI Insights Explorer**, a dynamic platform designed to explore and search through **Freedom of Information (FOI)** requests submitted to **Sheffield City Council**. This is a **proof-of-concept tool** that provides insights and data visualization based on FOI requests.
 
+
 ## 🚧 In Development
 
 This tool is currently in **active development**. Features are continuously updated, and we’re adding more functionality over time. Stay tuned for future improvements!
@@ -36,10 +37,12 @@ Our platform uses **AI-powered NLP** to extract insights from the FOI data, incl
 
 ## 🔍 Search FOI Requests
 
-Use the search bar below to quickly find specific FOI requests based on your keywords:
+<p>Explore, search, and filter Freedom of Information requests submitted to Sheffield City Council.</p>
 
-<input type="text" id="search" placeholder="Search by Title or Theme..." style="width: 100%; padding: 10px; margin-top: 20px;">
+<input type="text" id="search" placeholder="Search by Title or Theme...">
 <ul id="results"></ul>
+
+<script src="app.js"></script>
 
 ---
 
