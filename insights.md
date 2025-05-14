@@ -2,6 +2,16 @@
 layout: default
 title: Insights
 ---
+---
+
+## 📄 Sections
+
+[Home](/)  
+[Insights](/insights.md)  
+[Project Documentation](/project.md)  
+[About](/about.md)
+
+---
 
 # FOI Insights
 
