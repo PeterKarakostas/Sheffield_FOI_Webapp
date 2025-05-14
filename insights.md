@@ -17,4 +17,5 @@ Explore trends from the processed FOI data.
 <canvas id="statusChart"></canvas>
 
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-<script src="/insights.js"></script>
+<script src="/Sheffield_FOI_Webapp/insights.js"></script>
+
