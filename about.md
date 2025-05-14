@@ -2,7 +2,16 @@
 layout: default
 title: About This Project
 ---
+---
 
+## 📄 Sections
+
+[Home](/)  
+[Insights](/insights.md)  
+[Project Documentation](/project.md)  
+[About](/about.md)
+
+---
 # About Sheffield FOI Explorer
 
 The **Sheffield FOI Explorer** is a proof-of-concept platform designed to make Freedom of Information (FOI) requests more accessible to the public, journalists, researchers, and decision-makers.
