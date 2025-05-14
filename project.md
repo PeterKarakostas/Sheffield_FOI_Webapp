@@ -2,7 +2,16 @@
 layout: default
 title: Project Documentation
 ---
+---
 
+## 📄 Sections
+
+[Home](/)  
+[Insights](/insights.md)  
+[Project Documentation](/project.md)  
+[About](/about.md)
+
+---
 # Project Documentation
 
 Explore the technical and strategic documentation for the Sheffield FOI Insight Tool.
